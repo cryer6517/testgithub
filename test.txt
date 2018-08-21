@@ -1,2 +1,3 @@
 ﻿B hợp nhất với A
 A sửa B nhận code
+Pull auto
