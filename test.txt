@@ -1,1 +1,2 @@
-B hợp nhất với A
+﻿B hợp nhất với A
+A sửa B nhận code
